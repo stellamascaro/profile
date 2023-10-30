@@ -89,7 +89,7 @@ img{
   and (min-device-width: 768px)
   and (max-device-width: 1023px) {
     .white-box {
-      width: 600px;
+      width: 520px;
     }
 }
 
