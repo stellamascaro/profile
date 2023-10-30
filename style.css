@@ -6,6 +6,7 @@ body {
   text-align: center;
   color:#7C81AD;
   max-width: 100%;
+  width: 100%;
 }
 /* hello */
 
@@ -32,7 +33,7 @@ body {
   text-align: center;
   box-shadow: 0 0 20px rgba(0,0,0,0.1);
   width: 100%;
-  max-width: 100%;
+  max-width: 90%;
 }
 
 p{
